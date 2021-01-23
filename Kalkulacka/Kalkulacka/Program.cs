@@ -7,10 +7,8 @@ namespace Kalkulacka
         static void Main(string[] args)
         {
             //inputs
-            String inputNumber1 = Console.ReadLine();
-            int number1 = Convert.ToInt32(inputNumber1);
-            String inputNumber2 = Console.ReadLine();
-            int number2 = Convert.ToInt32(inputNumber2);
+            int number1 = Convert.ToInt32(Console.ReadLine());
+            int number2 = Convert.ToInt32(Console.ReadLine());
 
             String operation = Console.ReadLine();
             //options
