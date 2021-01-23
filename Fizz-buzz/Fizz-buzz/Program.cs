@@ -11,7 +11,13 @@ namespace Fizz_buzz
             // Ak bude číslo zároveň deliteľné 3 a aj 5, tak vypíš FizzBuzz.
 
 
-            double number = Convert.ToDouble(Console.ReadLine());
+            double number;
+            //validate input if it is double
+            Console.WriteLine("Enter the number: ");
+            while (!double.TryParse(Console.ReadLine(), out number))
+            {
+                Console.WriteLine("You do not enter correct input, please try again");
+            };
 
             if ((number % 5 == 0) && (number % 3 == 0))
             {
@@ -19,12 +25,16 @@ namespace Fizz_buzz
 
             }
             else if (number % 5 == 0)
-            { 
+            {
                 Console.WriteLine("Buzz");
             }
             else if (number % 3 == 0)
             {
                 Console.WriteLine("Fizz");
+            }
+            else
+            {
+                Console.WriteLine("The number "+ number + " is not divisible by 3 or 5");
             }
         }
     }
