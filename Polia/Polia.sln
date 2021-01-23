@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.808.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polia", "Polia\Polia.csproj", "{00311120-AE34-4A8D-81E0-5421B99ECB18}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00311120-AE34-4A8D-81E0-5421B99ECB18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00311120-AE34-4A8D-81E0-5421B99ECB18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00311120-AE34-4A8D-81E0-5421B99ECB18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00311120-AE34-4A8D-81E0-5421B99ECB18}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {69234AFA-53DC-4337-88B1-0023694B4E83}
+	EndGlobalSection
+EndGlobal
