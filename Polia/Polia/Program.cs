@@ -24,24 +24,33 @@ namespace Polia
             // TODO2: Na konzolu vypíš súčet a násobok všetkých čísel v jednorozmernom poli */
 
             int[] array = new int[] { 2, 4, 6, 8, 10 };
-
             int sum = 0;
             int product = 1;
          
-
             foreach (int item in array)
             {
                 sum += item;
                 product *= item;
            
             }
-
-          
             Console.WriteLine($"Sucet cisel je: {sum}, sucin cisel je: {product}");
 
             // TODO3:Na konzolu vypíš súčet a násobok všetkých čísel v dvojrozmernom poli.
+            int sum2D = 0;
+            int product2D = 1;
 
+            foreach (int[] vnutornePole in pole)
+            {
+                foreach(int item in vnutornePole)
+                {
+                    sum2D += item;
+                    product2D *= item;
+                }
+                
+               
 
+            }
+            Console.WriteLine($"Sucet cisel je: {sum2D}, sucin cisel je: {product2D}");
 
 
             /*TODO:Maj dvojrozmerné pole o ľubovoľnej dĺžke.Na konzolu vypíš súčet 0tých, 1vých... ntých(indexi) čísel v poliach.
