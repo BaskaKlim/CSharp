@@ -51,16 +51,20 @@ namespace Polia
 
 
             // TODO:Maj dvojrozmerné pole o ľubovoľnej dĺžke.Na konzolu vypíš súčet 0tých, 1vých... ntých(indexi) čísel v poliach.
+
+            //osetrujem maximalnu dlzku pola, porovnava dlzku kazdeho vnutorneho pola s max.dlzkou
             int maxLenght = 0;
             foreach (int[] element in pole)
             {
                  maxLenght = (element.Length > maxLenght ? element.Length : maxLenght);
             }
+            //prechadyam danym polom tolkokrat, aka dlzka je najvacsieho pola
             for (int i = 0; i < maxLenght; i++)
             {
                 int sumOfIndex = 0;
                 foreach (int[] element in pole)
                 {
+                    //sucet indexov 
                   sumOfIndex = sumOfIndex + (i < element.Length ? element[i] : 0);
                 }
                 Console.WriteLine($"Súčet čísel na indexe {i}: {sumOfIndex}");
