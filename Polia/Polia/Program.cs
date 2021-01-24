@@ -51,18 +51,21 @@ namespace Polia
 
 
             // TODO:Maj dvojrozmerné pole o ľubovoľnej dĺžke.Na konzolu vypíš súčet 0tých, 1vých... ntých(indexi) čísel v poliach.
-
-            for (int i = 0; i < pole.Length; i++)
-            { 
-                for (int j = 0; j < pole[i].Length; j++)
-                {
-                    int sumOfIndex = 0;
-                    sumOfIndex = pole[0][j] + pole[1][j];
-                    Console.WriteLine($"Sucet cisel na  indexe {sumOfIndex}");
-                }
-
+            int maxLenght = 0;
+            foreach (int[] element in pole)
+            {
+                 maxLenght = (element.Length > maxLenght ? element.Length : maxLenght);
             }
-
+            for (int i = 0; i < maxLenght; i++)
+            {
+                int sumOfIndex = 0;
+                foreach (int[] element in pole)
+                {
+                  sumOfIndex = sumOfIndex + (i < element.Length ? element[i] : 0);
+                }
+                Console.WriteLine($"Súčet čísel na indexe {i}: {sumOfIndex}");
+            }
+        
         }
     }
 }
