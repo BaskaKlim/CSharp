@@ -1,8 +1,8 @@
 ﻿<Properties StartupConfiguration="{00311120-AE34-4A8D-81E0-5421B99ECB18}|Default">
-  <MonoDevelop.Ide.ItemProperties.Polia FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Polia PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Polia/Program.cs">
     <Files>
-      <File FileName="Polia/Program.cs" Line="9" Column="16" />
+      <File FileName="Polia/Program.cs" Line="28" Column="29" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
