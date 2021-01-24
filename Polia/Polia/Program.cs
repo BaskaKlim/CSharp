@@ -32,11 +32,11 @@ namespace Polia
             foreach (int item in array)
             {
                 sum += item;
-                product = product * item;
+                product *= item;
            
             }
 
-           
+          
             Console.WriteLine($"Sucet cisel je: {sum}, sucin cisel je: {product}");
 
             // TODO3:Na konzolu vypíš súčet a násobok všetkých čísel v dvojrozmernom poli.
