@@ -26,12 +26,12 @@ namespace Polia
             int[] array = new int[] { 2, 4, 6, 8, 10 };
             int sum = 0;
             int product = 1;
-         
+
             foreach (int item in array)
             {
                 sum += item;
                 product *= item;
-           
+
             }
             Console.WriteLine($"Sucet cisel je: {sum}, sucin cisel je: {product}");
 
@@ -41,30 +41,27 @@ namespace Polia
 
             foreach (int[] vnutornePole in pole)
             {
-                foreach(int item in vnutornePole)
+                foreach (int item in vnutornePole)
                 {
                     sum2D += item;
                     product2D *= item;
                 }
-                
-               
-
             }
             Console.WriteLine($"Sucet cisel je: {sum2D}, sucin cisel je: {product2D}");
 
 
-            /*TODO:Maj dvojrozmerné pole o ľubovoľnej dĺžke.Na konzolu vypíš súčet 0tých, 1vých... ntých(indexi) čísel v poliach.
-            Napr.pri dvojrozmernom poli:
-            100 50
-            0 - 1002
+            // TODO:Maj dvojrozmerné pole o ľubovoľnej dĺžke.Na konzolu vypíš súčet 0tých, 1vých... ntých(indexi) čísel v poliach.
 
-            Napíš na konzolu:
-            - Súčet čísel na indexe 0: 10 + 0
-            - Súčet na indexe 1: 0 + (-100)
-            - Súčet na indexe 2: 50 + 2
-            */
+            for (int i = 0; i < pole.Length; i++)
+            { 
+                for (int j = 0; j < pole[i].Length; j++)
+                {
+                    int sumOfIndex = 0;
+                    sumOfIndex = pole[0][j] + pole[1][j];
+                    Console.WriteLine($"Sucet cisel na  indexe {sumOfIndex}");
+                }
 
-
+            }
 
         }
     }
