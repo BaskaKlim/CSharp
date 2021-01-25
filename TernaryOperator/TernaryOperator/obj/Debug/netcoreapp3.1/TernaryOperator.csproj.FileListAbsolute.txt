@@ -1,0 +1,12 @@
+/Users/barbara/Documents/learn2code/CSharp/TernaryOperator/TernaryOperator/bin/Debug/netcoreapp3.1/TernaryOperator.deps.json
+/Users/barbara/Documents/learn2code/CSharp/TernaryOperator/TernaryOperator/bin/Debug/netcoreapp3.1/TernaryOperator.runtimeconfig.json
+/Users/barbara/Documents/learn2code/CSharp/TernaryOperator/TernaryOperator/bin/Debug/netcoreapp3.1/TernaryOperator.runtimeconfig.dev.json
+/Users/barbara/Documents/learn2code/CSharp/TernaryOperator/TernaryOperator/bin/Debug/netcoreapp3.1/TernaryOperator.dll
+/Users/barbara/Documents/learn2code/CSharp/TernaryOperator/TernaryOperator/bin/Debug/netcoreapp3.1/TernaryOperator.pdb
+/Users/barbara/Documents/learn2code/CSharp/TernaryOperator/TernaryOperator/obj/Debug/netcoreapp3.1/TernaryOperator.csprojAssemblyReference.cache
+/Users/barbara/Documents/learn2code/CSharp/TernaryOperator/TernaryOperator/obj/Debug/netcoreapp3.1/TernaryOperator.AssemblyInfoInputs.cache
+/Users/barbara/Documents/learn2code/CSharp/TernaryOperator/TernaryOperator/obj/Debug/netcoreapp3.1/TernaryOperator.AssemblyInfo.cs
+/Users/barbara/Documents/learn2code/CSharp/TernaryOperator/TernaryOperator/obj/Debug/netcoreapp3.1/TernaryOperator.csproj.CoreCompileInputs.cache
+/Users/barbara/Documents/learn2code/CSharp/TernaryOperator/TernaryOperator/obj/Debug/netcoreapp3.1/TernaryOperator.dll
+/Users/barbara/Documents/learn2code/CSharp/TernaryOperator/TernaryOperator/obj/Debug/netcoreapp3.1/TernaryOperator.pdb
+/Users/barbara/Documents/learn2code/CSharp/TernaryOperator/TernaryOperator/obj/Debug/netcoreapp3.1/TernaryOperator.genruntimeconfig.cache
