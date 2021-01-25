@@ -1,0 +1,12 @@
+/Users/barbara/Documents/learn2code/CSharp/Extra/Extra/bin/Debug/netcoreapp3.1/Extra.deps.json
+/Users/barbara/Documents/learn2code/CSharp/Extra/Extra/bin/Debug/netcoreapp3.1/Extra.runtimeconfig.json
+/Users/barbara/Documents/learn2code/CSharp/Extra/Extra/bin/Debug/netcoreapp3.1/Extra.runtimeconfig.dev.json
+/Users/barbara/Documents/learn2code/CSharp/Extra/Extra/bin/Debug/netcoreapp3.1/Extra.dll
+/Users/barbara/Documents/learn2code/CSharp/Extra/Extra/bin/Debug/netcoreapp3.1/Extra.pdb
+/Users/barbara/Documents/learn2code/CSharp/Extra/Extra/obj/Debug/netcoreapp3.1/Extra.csprojAssemblyReference.cache
+/Users/barbara/Documents/learn2code/CSharp/Extra/Extra/obj/Debug/netcoreapp3.1/Extra.AssemblyInfoInputs.cache
+/Users/barbara/Documents/learn2code/CSharp/Extra/Extra/obj/Debug/netcoreapp3.1/Extra.AssemblyInfo.cs
+/Users/barbara/Documents/learn2code/CSharp/Extra/Extra/obj/Debug/netcoreapp3.1/Extra.csproj.CoreCompileInputs.cache
+/Users/barbara/Documents/learn2code/CSharp/Extra/Extra/obj/Debug/netcoreapp3.1/Extra.dll
+/Users/barbara/Documents/learn2code/CSharp/Extra/Extra/obj/Debug/netcoreapp3.1/Extra.pdb
+/Users/barbara/Documents/learn2code/CSharp/Extra/Extra/obj/Debug/netcoreapp3.1/Extra.genruntimeconfig.cache
