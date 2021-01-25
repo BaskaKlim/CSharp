@@ -15,8 +15,8 @@ namespace StringTasks
             Console.WriteLine("Zadaj slovo");
             String inputString = Console.ReadLine();
             UpperString(inputString);
-           
-            IsSringEqual();
+
+            Console.WriteLine(IsSringEqual());
 
             static void UpperString(String inputString)
             {
@@ -29,17 +29,14 @@ namespace StringTasks
              napíše true ak su rovnaké a false ak nie sú rovnaké.  */
 
 
-             static void IsSringEqual()
+             static bool IsSringEqual()
             {
                 Console.WriteLine("Zadaj prve slovo");
                 String string1 = Console.ReadLine();
                 Console.WriteLine("Zadaj druhe slovo");
                 String string2 = Console.ReadLine();
-                if (string1.Equals(string2))
-                {
-                    Console.WriteLine("true");
-                }
-                else Console.WriteLine("false");
+                return  string1.Equals(string2);
+            
             }
 
             /*TODO: Predošlú metódu uprav tak, aby namiesto výpisu true a false 
