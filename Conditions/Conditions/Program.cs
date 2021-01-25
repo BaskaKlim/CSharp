@@ -59,7 +59,28 @@ namespace Conditions
             else
                 mark = 5;
 
-            Console.WriteLine($"Znamka z tohto predmetu na vysvedceni bude: {mark}");
+            switch (mark)
+            {
+                case 1:
+                    Console.WriteLine("Známka na vysvedční bude: 1");
+                    break;
+                case 2:
+                    Console.WriteLine("Známka na vysvedční bude: 2");
+                    break;
+                case 3:
+                    Console.WriteLine("Známka na vysvedční bude: 3");
+                    break;
+                case 4:
+                    Console.WriteLine("Známka na vysvedční bude: 4");
+                    break;
+                case 5:
+                    Console.WriteLine("Známka na vysvedční bude: 5");
+                    break;
+                default:
+                    break;
+            }
+
+           // Console.WriteLine($"Znamka z tohto predmetu na vysvedceni bude: {mark}");
        
         }
     }
