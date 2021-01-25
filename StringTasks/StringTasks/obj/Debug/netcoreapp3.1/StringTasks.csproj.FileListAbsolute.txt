@@ -1,0 +1,12 @@
+/Users/barbara/Documents/learn2code/CSharp/StringTasks/StringTasks/bin/Debug/netcoreapp3.1/StringTasks.deps.json
+/Users/barbara/Documents/learn2code/CSharp/StringTasks/StringTasks/bin/Debug/netcoreapp3.1/StringTasks.runtimeconfig.json
+/Users/barbara/Documents/learn2code/CSharp/StringTasks/StringTasks/bin/Debug/netcoreapp3.1/StringTasks.runtimeconfig.dev.json
+/Users/barbara/Documents/learn2code/CSharp/StringTasks/StringTasks/bin/Debug/netcoreapp3.1/StringTasks.dll
+/Users/barbara/Documents/learn2code/CSharp/StringTasks/StringTasks/bin/Debug/netcoreapp3.1/StringTasks.pdb
+/Users/barbara/Documents/learn2code/CSharp/StringTasks/StringTasks/obj/Debug/netcoreapp3.1/StringTasks.csprojAssemblyReference.cache
+/Users/barbara/Documents/learn2code/CSharp/StringTasks/StringTasks/obj/Debug/netcoreapp3.1/StringTasks.AssemblyInfoInputs.cache
+/Users/barbara/Documents/learn2code/CSharp/StringTasks/StringTasks/obj/Debug/netcoreapp3.1/StringTasks.AssemblyInfo.cs
+/Users/barbara/Documents/learn2code/CSharp/StringTasks/StringTasks/obj/Debug/netcoreapp3.1/StringTasks.csproj.CoreCompileInputs.cache
+/Users/barbara/Documents/learn2code/CSharp/StringTasks/StringTasks/obj/Debug/netcoreapp3.1/StringTasks.dll
+/Users/barbara/Documents/learn2code/CSharp/StringTasks/StringTasks/obj/Debug/netcoreapp3.1/StringTasks.pdb
+/Users/barbara/Documents/learn2code/CSharp/StringTasks/StringTasks/obj/Debug/netcoreapp3.1/StringTasks.genruntimeconfig.cache
